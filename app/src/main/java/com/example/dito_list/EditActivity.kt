@@ -1,11 +1,11 @@
-package com.example.tsans_room
+package com.example.dito_list
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
-import com.example.tsans_room.room.Book
-import com.example.tsans_room.room.BookDb
-import com.example.tsans_room.room.Constant
+import com.example.dito_list.room.Book
+import com.example.dito_list.room.BookDb
+import com.example.dito_list.room.Constant
 import kotlinx.android.synthetic.main.activity_edit.*
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers

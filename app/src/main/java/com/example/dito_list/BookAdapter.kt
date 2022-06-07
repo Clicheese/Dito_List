@@ -1,10 +1,10 @@
-package com.example.tsans_room
+package com.example.dito_list
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.example.tsans_room.room.Book
+import com.example.dito_list.room.Book
 import kotlinx.android.synthetic.main.list_book.view.*
 
 

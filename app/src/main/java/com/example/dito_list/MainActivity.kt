@@ -1,13 +1,13 @@
-package com.example.tsans_room
+package com.example.dito_list
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.appcompat.app.AlertDialog
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.tsans_room.room.Book
-import com.example.tsans_room.room.BookDb
-import com.example.tsans_room.room.Constant
+import com.example.dito_list.room.Book
+import com.example.dito_list.room.BookDb
+import com.example.dito_list.room.Constant
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers

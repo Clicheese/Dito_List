@@ -1,4 +1,4 @@
-package com.example.tsans_room.room
+package com.example.dito_list.room
 
 class Constant {
     companion object {

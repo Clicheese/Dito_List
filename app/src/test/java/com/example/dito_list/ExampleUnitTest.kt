@@ -1,4 +1,4 @@
-package com.example.tsans_room
+package com.example.dito_list
 
 import org.junit.Test
 
